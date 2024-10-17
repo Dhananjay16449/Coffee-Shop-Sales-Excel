@@ -34,24 +34,27 @@ The data for this project was obtained from Kaggle. The dataset includes various
 
 Find the dataset [here](https://github.com/Dhananjay16449/Coffee-Shop-Sales-Excel/blob/main/Coffee%20Shop%20Sales.xlsx).
 
-Data Cleaning and Preparation
-Import Data: Load the dataset into Excel.
-Inspect Data: Review for missing values, duplicates, and inconsistencies.
-Clean Data: Remove duplicates, fill in missing values, and standardize formats (e.g., date formats).
-Transform Data: Create calculated columns for metrics such as total sales, average sale value, etc.
-Data Analysis
-Sales Trends: Analyze sales trends over time (daily, weekly, monthly).
-Customer Insights: Explore which items are the most popular and who the primary customers are.
-Seasonal Analysis: Identify any seasonal patterns in sales data.
-Performance Metrics: Calculate key performance indicators (KPIs) such as sales growth, customer retention, and average transaction value.
-Dashboard Creation
+## Data Cleaning and Preparation
+
+- **Import Data**: Load the dataset into Excel.
+- **Inspect Data**: Review for missing values, duplicates, and inconsistencies.
+- **Clean Data**: Remove duplicates, fill in missing values, and standardize formats (e.g., date formats).
+- **Transform Data**: Create calculated columns for metrics such as Size,Month_name, etc.
+  
+## Data Analysis
+- **Sales Trends**: Analyze sales trends over time (hours).
+- **Customer Insights**: Explore which items are the most popular and who the primary customers are.   
+- **Performance Metrics**: Calculate key performance indicators (KPIs) such as total sales, total footfall, average bill/person, and average order/person.
+
+## Dashboard Creation
 Using Excel's built-in features, we will create a dashboard that visually represents the key insights from our analysis. The dashboard will include:
 
-Interactive charts (bar, line, pie charts)
-KPIs summary
-Filters for date ranges and product categories
-Steps to Create the Dashboard:
-Insert Pivot Tables: Use pivot tables to summarize data.
-Create Charts: Visualize key metrics using appropriate chart types.
-Design Layout: Organize charts and tables for a clean, professional look.
-Add Interactivity: Use slicers and dropdowns to allow users to interact with the data.
+- Interactive charts (bar, line, pie charts)
+- KPIs summary
+- Filters for date ranges and product categories
+  
+**Steps to Create the Dashboard:**
+- Insert Pivot Tables: Use pivot tables to summarize data.
+- Create Charts: Visualize key metrics using appropriate chart types.
+- Design Layout: Organize charts and tables for a clean, professional look.
+- Add Interactivity: Use slicers and dropdowns to allow users to interact with the data.
