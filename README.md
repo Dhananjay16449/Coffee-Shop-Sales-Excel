@@ -32,7 +32,7 @@ The data for this project was obtained from Kaggle. The dataset includes various
 `product_type`,
 `product_detail`
 
-Find the dataset [here](https://github.com/username/repository/blob/main/dataset.csv).
+Find the dataset [here](https://github.com/Dhananjay16449/Coffee-Shop-Sales-Excel/blob/main/Coffee%20Shop%20Sales.xlsx).
 
 Data Cleaning and Preparation
 Import Data: Load the dataset into Excel.
