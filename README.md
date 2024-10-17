@@ -1,5 +1,7 @@
 # Coffee-Shop-Sales
 
+![Coffee Shop Dashboard](https://github.com/username/repository/raw/main/coffee-shop-dashboard.png)
+
 ## Project Overview
 
 **Project Title**: Coffee Shop Sales Analysis
