@@ -6,25 +6,33 @@
 
 **Software**: MS Excel
 
-**Dataset**:
+**Dataset**: `Coffee Shop Sakes.xlsx`
+
 This project aims to analyze coffee shop sales data using Excel, from data collection to creating a visually appealing dashboard. The dataset has been sourced from Kaggle, providing a rich resource for exploring sales trends, customer preferences, and operational insights.
 
-Table of Contents
-Project Structure
-Data Collection
-Data Cleaning and Preparation
-Data Analysis
-Dashboard Creation
+## Table of Contents
 
-Data Collection
+1. **Data Collection**
+2. **Data Cleaning and Preparation**
+3. **Data Analysis**
+4. **Dashboard Creation**
+
+## Data Collection
 The data for this project was obtained from Kaggle. The dataset includes various sales metrics such as:
 
-Date of sale
-Items sold
-Revenue generated
-Customer demographics
-Payment methods
-You can find the dataset here.
+`transaction_id `,
+`transaction_date`,
+`transaction_time`,	
+`transaction_qty`,	
+`store_id`,
+`store_location`,	
+`product_id`,	
+`unit_price`,	
+`product_category`,	
+`product_type`,
+`product_detail`
+
+Find the dataset [here](https://github.com/username/repository/blob/main/dataset.csv).
 
 Data Cleaning and Preparation
 Import Data: Load the dataset into Excel.
