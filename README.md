@@ -1,6 +1,8 @@
 # Coffee-Shop-Sales
 
-![Coffee Shop Dashboard](https://github.com/username/repository/raw/main/coffee-shop-dashboard.png)
+
+![Coffee Shop Dashboard](https://github.com/Dhananjay16449/Coffee-Shop-Sales-Excel/blob/main/Screenshot%202024-09-06%20183840.png)
+
 
 ## Project Overview
 
